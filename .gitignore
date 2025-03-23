@@ -1,3 +1,5 @@
 "node_modules/" 
 ".env" 
 "wp-content/uploads/" 
+"plugins/all-in-one-wp-migration/storage/" 
+"*.wpress" 
